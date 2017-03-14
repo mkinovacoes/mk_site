@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /promobrejaold/
+Disallow: /old/
+Disallow: /impression/
+Disallow: /cgi-bin/
+Disallow: /adm/
+Disallow: /includes/
+Disallow: /promobreja/
+Disallow: /promobrejaapp/
+Sitemap: http://www.mkinovacoes.com.br/sitemap.xml.gz
